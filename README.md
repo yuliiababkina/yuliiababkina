@@ -3,6 +3,7 @@
 <h3 align="center">I am an aspiring Front-End Developer with a passion for creating exceptional user experiences and developing business layer logic.</h3>
 
 
+
 <h2>About me</h2>
 
 <p>I am a highly motivated, enthusiastic, and hard-working Front-End Developer commited to build responsive and user-friendly web-pages.
@@ -36,23 +37,19 @@ I am excited to leverage my technical skills and expertise to provide value to t
 
 <h2>Stats</h2>
 
-<a href="https://github.com/yuliiababkina/github-readme-stats">
+  <a href="https://github.com/yuliiababkina/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yuliiababkina&theme=transparent" />
 </a>
-
-
-<br/>
-
-
-<a href="https://github.com/yuliiababkina/convoychat">
+<br>
+</br>
+  <a href="https://github.com/yuliiababkina/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuliiababkina&layout=compact&langs_count=8&card_width=380&theme=transparent" />
 </a>
 
 
+<h2>Views</h2>
 
-
-
-
+[![Yuliia Babkina profile views](https://u8views.com/api/v1/github/profiles/154010861/views/day-week-month-total-count.svg)](https://u8views.com/github/yuliiababkina)
 
 
 
