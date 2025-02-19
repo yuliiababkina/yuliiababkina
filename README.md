@@ -40,7 +40,8 @@ I am excited to leverage my technical skills and expertise to provide value to t
   <a href="https://github.com/yuliiababkina/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yuliiababkina&theme=transparent" />
 </a>
-
+<br>
+</br>
   <a href="https://github.com/yuliiababkina/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuliiababkina&layout=compact&langs_count=8&card_width=380&theme=transparent" />
 </a>
