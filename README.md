@@ -37,13 +37,18 @@ I am excited to leverage my technical skills and expertise to provide value to t
 
 <h2>Stats</h2>
 
-  <a href="https://github.com/yuliiababkina/github-readme-stats">
+<a href="https://github.com/yuliiababkina/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yuliiababkina&theme=transparent" />
 </a>
 <br>
 </br>
-  <a href="https://github.com/yuliiababkina/convoychat">
+<a href="https://github.com/yuliiababkina/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuliiababkina&layout=compact&langs_count=8&card_width=380&theme=transparent" />
+</a>
+<br>
+</br>
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=yuliiababkina&card_width=446&theme=transparent" />
 </a>
 
 
