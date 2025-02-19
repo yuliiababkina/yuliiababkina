@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an aspiring Front-End Developer with a passion for creating exceptional user experiences and developing business layer logic.</h3>
 
-
+![header_img](header.png)
 
 <h2>About me</h2>
 
