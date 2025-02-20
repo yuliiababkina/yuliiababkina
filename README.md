@@ -16,6 +16,7 @@ I am excited to leverage my technical skills and expertise to provide value to t
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logoColor=white&logoSize=42&labelColor=%23EA4335&link=mailto%3Ababkina.yul%40gmail.com)](mailto:babkina.yul@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230b65c2?style=flat&logoColor=white&logoSize=42&labelColor=%230b65c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyuliia-babkina%2F)](https://www.linkedin.com/in/yuliia-babkina/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-%230866FF?style=flat&logoColor=white&logoSize=42&labelColor=%230866FF&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100023174014488)](https://www.facebook.com/profile.php?id=100023174014488)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logoColor=white&logoSize=42&labelColor=%2326A5E4&link=https%3A%2F%2Ft.me%2Fyuliiababkina)](https://t.me/yuliiababkina)
 
 
